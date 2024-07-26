@@ -16,12 +16,11 @@
                 <div class="card-body card-body-cascade text-center">
 
                 <!-- Label -->
-                <h3 class=" pb-2 pt-1"> <i class="fas fa-briefcase"></i> Mobile App Software Engineer </h3>
+                <h3 class=" pb-2 pt-1"> <i class="fas fa-briefcase"></i>Software Engineer </h3>
                 <!-- Title -->
                 <h4 class="font-weight-bold card-title">T-Mobile</h4>
                 <!-- Text -->
-                <p class="card-text">Contributed to the development of the iOS apps by implementing new features,
-                    enhancing accessibility, and ensuring accurate analytics event tracking</p>
+                <p class="card-text">Contributed to the development of the iOS apps using Swift and SwiftUI</p>
                 </div>
                 <!-- Card footer -->
                 <div class="card-footer text-white text-center elegant-color-dark">
