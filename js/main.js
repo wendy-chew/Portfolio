@@ -43,10 +43,10 @@ $('document').ready(function(){
 
     //typed.js
     var typed = new Typed('.typed', {
-        strings: ['Computer Science Graduate',
-        'Web Development',
-        'Mobile Application Development',
-    'Software Engineering'],
+        strings: ['a Computer Science Graduate.',
+        'interested in Web Development.',
+        'interested in Mobile Application Development.',
+        'interested in Software Engineering.'],
         smartBackspace: true ,
         typeSpeed: 60,
 		startDelay: 1200,

@@ -62,7 +62,6 @@
                         <li class="c">C</li>
                         <li class="python">PYTHON</li>
                         <li class="kotlin">KOTLIN</li>
-                        <li class="swift">SWIFT</li>
                     </ul>
                 </div>
             </div>
